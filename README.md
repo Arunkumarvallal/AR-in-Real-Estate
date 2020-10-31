@@ -6,7 +6,9 @@ When it comes to customer satisfaction, civil engineers and architect face a maj
 
 ## Prerequisites
 <p>A Android phone which supports <b>Google Play Services for AR<b>.</p>
+ 
  Android 7.1 & above <br>
+ 
  Click [Here](https://developers.google.com/ar/discover/supported-devices) to check the device.
   
 ## Tools Used
