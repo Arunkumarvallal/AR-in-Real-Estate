@@ -5,7 +5,7 @@ This Application shows a 3D model that provides the building before construction
 When it comes to customer satisfaction, civil engineers and architect face a major obstacle, either when developing the blueprint or constructing the building.The main problem is that the architect and client's thought process or imagination may vary when the architect describes the information of the blueprint. It encourages the Architect's vision and provides the client a better understanding of the design. The thought process of the client may vary from the architect's vision. This implementation will ultimately make a revolution to customer end product understanding with user futuristic experience will fill the gap between real world and virtual world scenario.
 
 ## Screen Shots:iphone:
-<img src="https://github.com/Arunkumarvallal/AR-in-Real-Estate/blob/master/Screen%20Shots/step%204.jpg" width="1080" height="400"/>
+<img src="https://github.com/Arunkumarvallal/AR-in-Real-Estate/blob/master/Screen%20Shots/step%204.jpg"  height="300"/>
 
 
 ## Prerequisites
